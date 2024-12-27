@@ -44,6 +44,7 @@ class FastAPIWrapper:
                     if file.endswith('.env'):
                         env_file_path = os.path.join(root, file)
                         _logger.info(f"Found .env file: {env_file_path}")
+                        load_dotenv(env_file_path)
 
 
     def setup_base_routes(self,app: FastAPI) -> None:
