@@ -1,1 +1,1 @@
-# -fastapi-template-basic
+# fastapi-template-basic
