@@ -74,7 +74,7 @@ Run fastapi-template using the following command:
 
 ##  License
 
-This project is protected under the MIT License. For more details.
+This project is protected under the MIT License.
 
 ---
 
