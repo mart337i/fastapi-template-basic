@@ -2,10 +2,10 @@
 <p align="center">
 	<em><code>❯Basic FastApi template</code></em>
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
+<p align="center"
 </p>
 <p align="center">
-	<!-- default option, no dependency badges. -->
+
 </p>
 <br>
 
